@@ -1,0 +1,24 @@
+{
+  "name": "unloop-check-permission",
+  "version": "1.0.0",
+  "description": "Unloop's authorization checks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/un-loop/unloop-check-permission.git"
+  },
+  "keywords": [
+    "unloop",
+    "authorization",
+    "roles"
+  ],
+  "author": "Michael Armes (michael@un-loop.org)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/un-loop/unloop-check-permission/issues"
+  },
+  "homepage": "https://github.com/un-loop/unloop-check-permission#readme"
+}
